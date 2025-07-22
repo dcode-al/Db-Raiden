@@ -1767,10 +1767,10 @@
         "status_deposit": false,
         "umur": 50,
         "glimit": 15,
-        "limit": 99,
+        "limit": 91,
         "coins": 0,
         "saldo": 5000,
-        "exp": 274,
+        "exp": 334,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2477,7 +2477,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6289510059965@s.whatsapp.net": {
         "rpg": false,
