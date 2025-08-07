@@ -572,7 +572,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6285791767210@s.whatsapp.net": {
         "rpg": false,
