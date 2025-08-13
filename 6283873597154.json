@@ -640,7 +640,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "17535716030@s.whatsapp.net": {
         "rpg": false,
@@ -662,7 +663,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6281295789953@s.whatsapp.net": {
         "rpg": false,
@@ -820,7 +822,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6281803561931@s.whatsapp.net": {
         "rpg": false,
@@ -835,14 +838,15 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 98,
         "coins": 0,
         "saldo": 0,
-        "exp": 0,
+        "exp": 8,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6281226729389@s.whatsapp.net": {
         "rpg": false,
