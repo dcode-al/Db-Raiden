@@ -3224,7 +3224,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6285796319014@s.whatsapp.net": {
         "rpg": false,
@@ -7418,7 +7419,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       }
     },
     "chats": {
