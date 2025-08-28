@@ -21,7 +21,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 229,
+        "exp": 244,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -176,10 +176,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 70,
+        "limit": 69,
         "coins": 0,
         "saldo": 0,
-        "exp": 300,
+        "exp": 312,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4646,7 +4646,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "6282134740879@s.whatsapp.net": {
         "rpg": false,
@@ -4849,7 +4850,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       }
     },
     "chats": {
