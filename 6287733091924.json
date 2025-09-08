@@ -588,7 +588,8 @@
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0
+        "level": 0,
+        "alpin": false
       },
       "194223152341209@lid": {
         "rpg": false,
