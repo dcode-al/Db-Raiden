@@ -21,7 +21,7 @@
         "limit": 10000004,
         "coins": 0,
         "saldo": 5000,
-        "exp": 498,
+        "exp": 527,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -66,10 +66,10 @@
         "status_deposit": false,
         "umur": 11,
         "glimit": 15,
-        "limit": 67,
+        "limit": 66,
         "coins": 0,
         "saldo": 5000,
-        "exp": 550,
+        "exp": 569,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -164,7 +164,7 @@
         "limit": 10000030,
         "coins": 0,
         "saldo": 7500,
-        "exp": 1017,
+        "exp": 1040,
         "rank": 666,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3124,10 +3124,10 @@
         "totalChat": {
           "6285729894839@s.whatsapp.net": 80,
           "6288287986014@s.whatsapp.net": 45,
-          "6282299277754@s.whatsapp.net": 351,
-          "120363421925994319@g.us": 395,
+          "6282299277754@s.whatsapp.net": 368,
+          "120363421925994319@g.us": 400,
           "6282154183700@s.whatsapp.net": 1,
-          "6285703556088@s.whatsapp.net": 186,
+          "6285703556088@s.whatsapp.net": 201,
           "6283133022276@s.whatsapp.net": 1,
           "106498445336665@s.whatsapp.net": 3,
           "6283894899257@s.whatsapp.net": 12,
@@ -3135,7 +3135,7 @@
           "6285603566010@s.whatsapp.net": 6,
           "62895404598802@s.whatsapp.net": 1,
           "6283862877464@s.whatsapp.net": 9,
-          "6283844487865@s.whatsapp.net": 16,
+          "6283844487865@s.whatsapp.net": 28,
           "6285921586100@s.whatsapp.net": 21,
           "6285384949241@s.whatsapp.net": 1,
           "6288985846499@s.whatsapp.net": 95,
@@ -3189,7 +3189,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285703556088@s.whatsapp.net": 57
+          "6285703556088@s.whatsapp.net": 68
         }
       },
       "120363417989258717@g.us": {
@@ -3246,7 +3246,7 @@
           "6283873934145@s.whatsapp.net": 16,
           "6282261058116@s.whatsapp.net": 1,
           "6281998593722@s.whatsapp.net": 17,
-          "6282299277754@s.whatsapp.net": 33,
+          "6282299277754@s.whatsapp.net": 34,
           "6285947526709@s.whatsapp.net": 2
         }
       },
