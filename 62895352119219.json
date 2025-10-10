@@ -1780,17 +1780,17 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1760099524874,
+        "pctime": 1760133735471,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 99,
+        "limit": 98,
         "coins": 0,
         "saldo": 0,
-        "exp": 20,
+        "exp": 26,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3307,10 +3307,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 14,
-        "limit": 18,
+        "limit": 26,
         "coins": 0,
-        "saldo": 0,
-        "exp": 932,
+        "saldo": 2500,
+        "exp": 938,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -3713,7 +3713,7 @@
         "nsfw": false,
         "totalChat": {
           "628567909841@s.whatsapp.net": 205,
-          "120363330211805090@g.us": 2841,
+          "120363330211805090@g.us": 2842,
           "6285262562560@s.whatsapp.net": 95,
           "6281997357479@s.whatsapp.net": 4,
           "6285194203646@s.whatsapp.net": 1,
@@ -3801,7 +3801,7 @@
           "628811597984@s.whatsapp.net": 1,
           "628131304363@s.whatsapp.net": 1,
           "6283119404224@s.whatsapp.net": 4,
-          "6283141098455@s.whatsapp.net": 108,
+          "6283141098455@s.whatsapp.net": 111,
           "62895395199577@s.whatsapp.net": 45,
           "6282189561517@s.whatsapp.net": 5,
           "6281946240206@s.whatsapp.net": 1,
@@ -4002,7 +4002,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363408438418826@newsletter": 48
+          "120363408438418826@newsletter": 50
         }
       },
       "120363404387716760@g.us": {
@@ -4239,7 +4239,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363390274692764@newsletter": 85
+          "120363390274692764@newsletter": 87
         }
       },
       "120363401185748353@newsletter": {
@@ -5214,7 +5214,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283198030817@s.whatsapp.net": 15
+          "6283198030817@s.whatsapp.net": 24
         }
       },
       "6283149253905@s.whatsapp.net": {
