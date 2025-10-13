@@ -93,7 +93,7 @@
         "limit": 92,
         "coins": 0,
         "saldo": 10005950,
-        "exp": 694,
+        "exp": 721,
         "rank": 1044,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -107,7 +107,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1760236207854,
+        "pctime": 1760333341784,
         "nama": "Ard",
         "pacar": "",
         "askot": "jakarta",
@@ -117,7 +117,7 @@
         "limit": 10000040,
         "coins": 0,
         "saldo": 10250,
-        "exp": 1562,
+        "exp": 1564,
         "rank": 731,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2733,7 +2733,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285246060088@s.whatsapp.net": 426
+          "6285246060088@s.whatsapp.net": 428
         }
       },
       "120363330211805090@g.us": {
@@ -3585,9 +3585,9 @@
         "nsfw": false,
         "totalChat": {
           "6285246060088@s.whatsapp.net": 192,
-          "120363422280706695@g.us": 185,
+          "120363422280706695@g.us": 197,
           "147167373181003@s.whatsapp.net": 6,
-          "6285727629690@s.whatsapp.net": 178,
+          "6285727629690@s.whatsapp.net": 182,
           "6282252169908@s.whatsapp.net": 4,
           "6283187657256@s.whatsapp.net": 86
         }
