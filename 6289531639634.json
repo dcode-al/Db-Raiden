@@ -2222,6 +2222,29 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0
+      },
+      "6287855121266@s.whatsapp.net": {
+        "rpg": false,
+        "daftar": false,
+        "qioo": false,
+        "chatAi": false,
+        "caiSesi": "",
+        "pctime": "",
+        "nama": "Guest",
+        "pacar": "",
+        "askot": "jakarta",
+        "status_deposit": false,
+        "umur": 0,
+        "glimit": 15,
+        "limit": 100,
+        "coins": 0,
+        "saldo": 0,
+        "exp": 0,
+        "rank": 700,
+        "antilinkcount": 0,
+        "toxiccount": 0,
+        "level": 0,
+        "rsaldo": 0
       }
     },
     "chats": {
@@ -2264,11 +2287,11 @@
           "62856965730236@s.whatsapp.net": 101,
           "6282222206252@s.whatsapp.net": 46,
           "6285833573221@s.whatsapp.net": 7,
-          "120363417480613110@g.us": 31,
+          "120363417480613110@g.us": 32,
           "6281527100923@s.whatsapp.net": 94,
           "6285935011010@s.whatsapp.net": 22,
           "6285148373526@s.whatsapp.net": 129,
-          "6282230439642@s.whatsapp.net": 69,
+          "6282230439642@s.whatsapp.net": 71,
           "62881011656235@s.whatsapp.net": 9,
           "6289514631135@s.whatsapp.net": 42,
           "6283139612467@s.whatsapp.net": 50,
@@ -2283,7 +2306,8 @@
           "6282152084448@s.whatsapp.net": 1,
           "6283839175656@s.whatsapp.net": 9,
           "6282184628771@s.whatsapp.net": 27,
-          "6285126702572@s.whatsapp.net": 4
+          "6285126702572@s.whatsapp.net": 4,
+          "248266608381986@lid": 1
         }
       },
       "120363401474237982@g.us": {
@@ -2328,7 +2352,7 @@
           "628978116653@s.whatsapp.net": 4,
           "6285733887851@s.whatsapp.net": 14,
           "6281241211511@s.whatsapp.net": 16,
-          "628891250608@s.whatsapp.net": 186,
+          "628891250608@s.whatsapp.net": 188,
           "6282134740879@s.whatsapp.net": 133,
           "6283829814737@s.whatsapp.net": 9,
           "6285807428724@s.whatsapp.net": 66,
@@ -2345,7 +2369,7 @@
           "6283197755341@s.whatsapp.net": 1,
           "628974188118@s.whatsapp.net": 8,
           "919142294671@s.whatsapp.net": 9,
-          "6281953995834@s.whatsapp.net": 79,
+          "6281953995834@s.whatsapp.net": 81,
           "6285974126258@s.whatsapp.net": 43,
           "6283193991575@s.whatsapp.net": 26,
           "6283138019675@s.whatsapp.net": 1,
@@ -2354,7 +2378,8 @@
           "6281243226450@s.whatsapp.net": 2,
           "6281385317794@s.whatsapp.net": 4,
           "6285692924866@s.whatsapp.net": 13,
-          "6282288303349@s.whatsapp.net": 2
+          "6282288303349@s.whatsapp.net": 2,
+          "6287855121266@s.whatsapp.net": 1
         }
       },
       "120363420139158899@g.us": {
@@ -2393,7 +2418,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 26,
+          "6283197755341@s.whatsapp.net": 27,
           "120363420139158899@g.us": 192,
           "6289514631135@s.whatsapp.net": 2,
           "6285935011010@s.whatsapp.net": 51,
@@ -2452,7 +2477,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6289531639634@s.whatsapp.net": 60
+          "6289531639634@s.whatsapp.net": 61
         }
       },
       "120363389675047798@g.us": {
@@ -2497,7 +2522,7 @@
           "6283876892331@s.whatsapp.net": 1,
           "6285261828261@s.whatsapp.net": 6,
           "6285703556088@s.whatsapp.net": 32,
-          "6285935011010@s.whatsapp.net": 37,
+          "6285935011010@s.whatsapp.net": 38,
           "62895410425552@s.whatsapp.net": 20,
           "639615293561@s.whatsapp.net": 8,
           "6283176597242@s.whatsapp.net": 55,
@@ -7289,6 +7314,51 @@
         "money": 0
       },
       "6283836950032@s.whatsapp.net": {
+        "kapal": false,
+        "darahkapal": 100,
+        "pickaxe": false,
+        "darahpickaxe": 100,
+        "kapak": false,
+        "darahkapak": 100,
+        "bzirah": false,
+        "darahbzirah": 100,
+        "pedang": false,
+        "darahpedang": 100,
+        "darahuser": 100,
+        "rumah": 0,
+        "besi": 4,
+        "kayu": 2,
+        "emas": 0,
+        "perak": 0,
+        "batubara": 0,
+        "bulu": 0,
+        "kain": 0,
+        "wilayah": "indonesia",
+        "wilayahrumah": "indonesia",
+        "musuh": 0,
+        "ikan": 0,
+        "domba": 0,
+        "sapi": 0,
+        "ayam": 0,
+        "bank": 0,
+        "burutime": 0,
+        "lastclaim": 0,
+        "lastdagang": 0,
+        "lastbansos": 0,
+        "lastkerja": 0,
+        "lastrampok": 0,
+        "subscribers": 0,
+        "ytlike": 0,
+        "ytviewers": 0,
+        "ytmoney": 0,
+        "lastLiveTime": 0,
+        "fans": 0,
+        "viewers": 0,
+        "likes": 0,
+        "comments": 0,
+        "money": 0
+      },
+      "6287855121266@s.whatsapp.net": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
