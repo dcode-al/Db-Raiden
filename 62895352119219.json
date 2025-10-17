@@ -1527,10 +1527,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 91,
+        "limit": 90,
         "coins": 0,
         "saldo": 0,
-        "exp": 184,
+        "exp": 186,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1742,10 +1742,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 84,
+        "limit": 80,
         "coins": 0,
         "saldo": 0,
-        "exp": 167,
+        "exp": 218,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2052,10 +2052,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 95,
+        "limit": 94,
         "coins": 0,
         "saldo": 0,
-        "exp": 54,
+        "exp": 58,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2709,7 +2709,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285806059974@s.whatsapp.net": 69
+          "6285806059974@s.whatsapp.net": 70
         }
       },
       "120363330211805090@g.us": {
@@ -2755,7 +2755,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363330211805090@g.us": 1463,
+          "120363330211805090@g.us": 1481,
           "6285806059974@s.whatsapp.net": 146,
           "6285158235174@s.whatsapp.net": 51,
           "62895324494061@s.whatsapp.net": 4,
@@ -2796,7 +2796,7 @@
           "62895352119219@s.whatsapp.net": 4963,
           "6285142641362@s.whatsapp.net": 5,
           "6281241211511@s.whatsapp.net": 3,
-          "628895440664@s.whatsapp.net": 15,
+          "628895440664@s.whatsapp.net": 16,
           "62881023107921@s.whatsapp.net": 4,
           "6282364896480@s.whatsapp.net": 5,
           "6283119000529@s.whatsapp.net": 2,
@@ -2804,7 +2804,7 @@
           "6285262562560@s.whatsapp.net": 15,
           "6285198169217@s.whatsapp.net": 1,
           "6287886569297@s.whatsapp.net": 9,
-          "62881012416411@s.whatsapp.net": 16,
+          "62881012416411@s.whatsapp.net": 20,
           "6282326965396@s.whatsapp.net": 9,
           "6283136059348@s.whatsapp.net": 15,
           "204578469445805@lid": 262,
@@ -2814,7 +2814,7 @@
           "6285799770644@s.whatsapp.net": 1,
           "6288224806307@s.whatsapp.net": 9,
           "6285211209159@s.whatsapp.net": 5,
-          "6282135184761@s.whatsapp.net": 5,
+          "6282135184761@s.whatsapp.net": 6,
           "62882006975033@s.whatsapp.net": 6,
           "6289528109401@s.whatsapp.net": 5,
           "6288215289727@s.whatsapp.net": 2,
@@ -3690,7 +3690,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363407967505702@newsletter": 23
+          "120363407967505702@newsletter": 24
         }
       },
       "120363419417736444@newsletter": {
