@@ -1,6 +1,21 @@
 {
   "data": {
-    "sticker": {},
+    "sticker": {
+      "165,96,154,24,88,147,1,242,89,215,89,8,94,128,122,26,24,115,137,76,54,50,245,171,216,49,101,123,45,219,247,130": {
+        "text": ".close",
+        "mentionedJid": [],
+        "creator": "6285246060088@s.whatsapp.net",
+        "at": 1760688429758,
+        "locked": false
+      },
+      "123,44,67,153,152,230,184,130,145,205,43,82,157,155,238,5,35,131,6,52,23,144,208,111,93,143,136,199,130,40,68,208": {
+        "text": ".h kiki kuntul",
+        "mentionedJid": [],
+        "creator": "6285246060088@s.whatsapp.net",
+        "at": 1760688448851,
+        "locked": false
+      }
+    },
     "database": {},
     "game": {},
     "others": {},
@@ -59,7 +74,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1760678804891,
+        "pctime": 1760678815993,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -69,7 +84,7 @@
         "limit": 95,
         "coins": 0,
         "saldo": 0,
-        "exp": 228,
+        "exp": 326,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -116,7 +131,7 @@
         "limit": 97,
         "coins": 0,
         "saldo": 0,
-        "exp": 51,
+        "exp": 64,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -326,10 +341,10 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285246060088@s.whatsapp.net": 10,
-          "120363422280706695@g.us": 31,
-          "6285727629690@s.whatsapp.net": 12,
-          "6283187657256@s.whatsapp.net": 2
+          "6285246060088@s.whatsapp.net": 18,
+          "120363422280706695@g.us": 43,
+          "6285727629690@s.whatsapp.net": 27,
+          "6283187657256@s.whatsapp.net": 12
         }
       },
       "120363421615856458@g.us": {
