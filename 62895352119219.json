@@ -1048,10 +1048,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 88,
+        "limit": 87,
         "coins": 0,
         "saldo": 0,
-        "exp": 180,
+        "exp": 187,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2943,7 +2943,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363330211805090@g.us": 1662,
+          "120363330211805090@g.us": 1663,
           "6285806059974@s.whatsapp.net": 149,
           "6285158235174@s.whatsapp.net": 51,
           "62895324494061@s.whatsapp.net": 4,
@@ -2969,7 +2969,7 @@
           "6285169061099@s.whatsapp.net": 51,
           "6283149253905@s.whatsapp.net": 14,
           "6281328216436@s.whatsapp.net": 16,
-          "6281239977516@s.whatsapp.net": 19,
+          "6281239977516@s.whatsapp.net": 20,
           "6281243631307@s.whatsapp.net": 8,
           "6281252678370@s.whatsapp.net": 3,
           "6281292967961@s.whatsapp.net": 2,
@@ -3012,7 +3012,7 @@
           "6285811238066@s.whatsapp.net": 10,
           "6289514631135@s.whatsapp.net": 5,
           "6283832180091@s.whatsapp.net": 10,
-          "6283186481464@s.whatsapp.net": 2,
+          "6283186481464@s.whatsapp.net": 4,
           "6283171591324@s.whatsapp.net": 1,
           "6283898853768@s.whatsapp.net": 1,
           "6281260482258@s.whatsapp.net": 4,
@@ -3180,7 +3180,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363191719079933@newsletter": 46
+          "120363191719079933@newsletter": 47
         }
       },
       "120363421135623731@newsletter": {
@@ -3338,7 +3338,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363422118491664@newsletter": 71
+          "120363422118491664@newsletter": 72
         }
       },
       "120363301416835342@newsletter": {
@@ -3455,7 +3455,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400634001034@newsletter": 111
+          "120363400634001034@newsletter": 112
         }
       },
       "120363303926767665@newsletter": {
@@ -3494,7 +3494,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363303926767665@newsletter": 37
+          "120363303926767665@newsletter": 38
         }
       },
       "120363319695428225@newsletter": {
@@ -3611,7 +3611,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363401454801500@newsletter": 31
+          "120363401454801500@newsletter": 33
         }
       },
       "120363402472579489@newsletter": {
@@ -3650,7 +3650,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363402472579489@newsletter": 17
+          "120363402472579489@newsletter": 19
         }
       },
       "120363403066612655@newsletter": {
@@ -4747,7 +4747,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363419556448385@newsletter": 37
+          "120363419556448385@newsletter": 40
         }
       },
       "120363401301175739@newsletter": {
