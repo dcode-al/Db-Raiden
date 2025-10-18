@@ -2700,7 +2700,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "120363401890641860@newsletter": {
         "rpg": false,
@@ -3104,7 +3105,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363191719079933@newsletter": 37
+          "120363191719079933@newsletter": 39
         }
       },
       "120363421135623731@newsletter": {
@@ -3223,7 +3224,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363420619530273@newsletter": 70
+          "120363420619530273@newsletter": 71
         }
       },
       "120363422118491664@newsletter": {
@@ -3262,7 +3263,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363422118491664@newsletter": 64
+          "120363422118491664@newsletter": 66
         }
       },
       "120363301416835342@newsletter": {
@@ -3379,7 +3380,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400634001034@newsletter": 100
+          "120363400634001034@newsletter": 102
         }
       },
       "120363303926767665@newsletter": {
@@ -3418,7 +3419,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363303926767665@newsletter": 24
+          "120363303926767665@newsletter": 27
         }
       },
       "120363319695428225@newsletter": {
@@ -3496,7 +3497,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418850727229@newsletter": 40
+          "120363418850727229@newsletter": 41
         }
       },
       "120363401454801500@newsletter": {
@@ -3535,7 +3536,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363401454801500@newsletter": 28
+          "120363401454801500@newsletter": 29
         }
       },
       "120363402472579489@newsletter": {
@@ -3847,7 +3848,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363419417736444@newsletter": 20
+          "120363419417736444@newsletter": 21
         }
       },
       "120363418736784979@newsletter": {
@@ -3886,7 +3887,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418736784979@newsletter": 12
+          "120363418736784979@newsletter": 13
         }
       },
       "120363401185748353@newsletter": {
@@ -3925,7 +3926,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363401185748353@newsletter": 19
+          "120363401185748353@newsletter": 21
         }
       },
       "120363418977603376@newsletter": {
@@ -4198,7 +4199,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363419083195452@newsletter": 11
+          "120363419083195452@newsletter": 12
         }
       },
       "628999800123@s.whatsapp.net": {
@@ -4749,7 +4750,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363403384869678@newsletter": 1
+          "120363403384869678@newsletter": 2
         }
       },
       "120363401890641860@newsletter": {
