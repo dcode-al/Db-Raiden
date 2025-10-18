@@ -953,10 +953,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 92,
+        "limit": 86,
         "coins": 0,
         "saldo": 0,
-        "exp": 108,
+        "exp": 160,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1742,10 +1742,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 77,
+        "limit": 74,
         "coins": 0,
         "saldo": 0,
-        "exp": 265,
+        "exp": 304,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2778,7 +2778,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363330211805090@g.us": 1492,
+          "120363330211805090@g.us": 1519,
           "6285806059974@s.whatsapp.net": 146,
           "6285158235174@s.whatsapp.net": 51,
           "62895324494061@s.whatsapp.net": 4,
@@ -2802,7 +2802,7 @@
           "6281247026163@s.whatsapp.net": 4,
           "6288801555726@s.whatsapp.net": 14,
           "6285169061099@s.whatsapp.net": 49,
-          "6283149253905@s.whatsapp.net": 8,
+          "6283149253905@s.whatsapp.net": 14,
           "6281328216436@s.whatsapp.net": 16,
           "6281239977516@s.whatsapp.net": 18,
           "6281243631307@s.whatsapp.net": 8,
@@ -2827,7 +2827,7 @@
           "6285262562560@s.whatsapp.net": 15,
           "6285198169217@s.whatsapp.net": 1,
           "6287886569297@s.whatsapp.net": 9,
-          "62881012416411@s.whatsapp.net": 23,
+          "62881012416411@s.whatsapp.net": 26,
           "6282326965396@s.whatsapp.net": 9,
           "6283136059348@s.whatsapp.net": 15,
           "204578469445805@lid": 262,
@@ -3010,7 +3010,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363191719079933@newsletter": 36
+          "120363191719079933@newsletter": 37
         }
       },
       "120363421135623731@newsletter": {
@@ -3049,7 +3049,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363421135623731@newsletter": 26
+          "120363421135623731@newsletter": 27
         }
       },
       "120363384753058227@g.us": {
