@@ -69,7 +69,7 @@
         "limit": 10000010,
         "coins": 0,
         "saldo": 4250,
-        "exp": 2194,
+        "exp": 2208,
         "rank": 680,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1743,10 +1743,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 61,
+        "limit": 58,
         "coins": 0,
         "saldo": 0,
-        "exp": 436,
+        "exp": 447,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2773,7 +2773,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6283194626001@s.whatsapp.net": {
         "rpg": false,
@@ -2937,7 +2938,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       }
     },
     "chats": {
@@ -3062,8 +3064,8 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363330211805090@g.us": 1863,
-          "6285806059974@s.whatsapp.net": 149,
+          "120363330211805090@g.us": 1874,
+          "6285806059974@s.whatsapp.net": 150,
           "6285158235174@s.whatsapp.net": 54,
           "62895324494061@s.whatsapp.net": 4,
           "6283866420611@s.whatsapp.net": 86,
@@ -3111,7 +3113,7 @@
           "6285262562560@s.whatsapp.net": 15,
           "6285198169217@s.whatsapp.net": 1,
           "6287886569297@s.whatsapp.net": 9,
-          "62881012416411@s.whatsapp.net": 39,
+          "62881012416411@s.whatsapp.net": 42,
           "6282326965396@s.whatsapp.net": 9,
           "6283136059348@s.whatsapp.net": 16,
           "204578469445805@lid": 262,
@@ -3140,7 +3142,7 @@
           "62882003718886@s.whatsapp.net": 2,
           "6285246060088@s.whatsapp.net": 1,
           "6285212631834@s.whatsapp.net": 2,
-          "6285191855962@s.whatsapp.net": 1,
+          "6285191855962@s.whatsapp.net": 2,
           "6283194626001@s.whatsapp.net": 1,
           "14023101776096@lid": 1,
           "6282211330551@s.whatsapp.net": 4,
@@ -3578,7 +3580,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400634001034@newsletter": 123
+          "120363400634001034@newsletter": 127
         }
       },
       "120363303926767665@newsletter": {
@@ -3695,7 +3697,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418850727229@newsletter": 47
+          "120363418850727229@newsletter": 48
         }
       },
       "120363401454801500@newsletter": {
@@ -3734,7 +3736,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363401454801500@newsletter": 37
+          "120363401454801500@newsletter": 39
         }
       },
       "120363402472579489@newsletter": {
@@ -3773,7 +3775,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363402472579489@newsletter": 22
+          "120363402472579489@newsletter": 24
         }
       },
       "120363403066612655@newsletter": {
@@ -4007,7 +4009,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363407967505702@newsletter": 33
+          "120363407967505702@newsletter": 34
         }
       },
       "120363419417736444@newsletter": {
@@ -4870,7 +4872,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363419556448385@newsletter": 41
+          "120363419556448385@newsletter": 43
         }
       },
       "120363401301175739@newsletter": {
@@ -4909,7 +4911,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363401301175739@newsletter": 6
+          "120363401301175739@newsletter": 7
         }
       },
       "120363403384869678@newsletter": {
@@ -5104,7 +5106,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363390274692764@newsletter": 1
+          "120363390274692764@newsletter": 2
         }
       }
     },
