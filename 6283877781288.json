@@ -1021,7 +1021,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6285802897506@s.whatsapp.net": {
         "rpg": false,
@@ -1601,7 +1602,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283877781288@s.whatsapp.net": 53
+          "6283877781288@s.whatsapp.net": 54
         }
       },
       "6283873597154@s.whatsapp.net": {
@@ -2089,7 +2090,7 @@
         "totalChat": {
           "120363421255807124@g.us": 2,
           "6285835817545@s.whatsapp.net": 2,
-          "6285758173289@s.whatsapp.net": 1
+          "6285758173289@s.whatsapp.net": 3
         }
       },
       "62895365195604@s.whatsapp.net": {
