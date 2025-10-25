@@ -637,10 +637,10 @@
         "status_deposit": false,
         "umur": 16,
         "glimit": 13,
-        "limit": 222,
+        "limit": 215,
         "coins": 0,
         "saldo": 5000,
-        "exp": 1188,
+        "exp": 1251,
         "rank": 663,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1529,7 +1529,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283877781288@s.whatsapp.net": 47
+          "6283877781288@s.whatsapp.net": 48
         }
       },
       "6283873597154@s.whatsapp.net": {
@@ -1646,13 +1646,13 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418220151844@g.us": 509,
+          "120363418220151844@g.us": 530,
           "6285935011010@s.whatsapp.net": 206,
           "6289523581795@s.whatsapp.net": 6,
           "6285198546850@s.whatsapp.net": 16,
           "6285789493887@s.whatsapp.net": 19,
           "6283877781288@s.whatsapp.net": 5,
-          "628136806685@s.whatsapp.net": 209,
+          "628136806685@s.whatsapp.net": 216,
           "248266608381986@lid": 1,
           "6285814486417@s.whatsapp.net": 1,
           "6281445337384@s.whatsapp.net": 17,
@@ -1759,8 +1759,8 @@
         "totalChat": {
           "6281377796883@s.whatsapp.net": 8,
           "6285882039855@s.whatsapp.net": 4,
-          "6283854772553@s.whatsapp.net": 33,
-          "6282121914814@s.whatsapp.net": 11,
+          "6283854772553@s.whatsapp.net": 35,
+          "6282121914814@s.whatsapp.net": 12,
           "6285624645780@s.whatsapp.net": 1,
           "6285122080122@s.whatsapp.net": 5,
           "120363335608906967@g.us": 9,
@@ -2092,7 +2092,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400297473298@newsletter": 8
+          "120363400297473298@newsletter": 9
         }
       },
       "120363418763241552@newsletter": {
@@ -2131,7 +2131,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418763241552@newsletter": 5
+          "120363418763241552@newsletter": 6
         }
       },
       "120363421319187750@newsletter": {
