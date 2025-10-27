@@ -301,10 +301,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 96,
+        "limit": 89,
         "coins": 0,
         "saldo": 0,
-        "exp": 61,
+        "exp": 122,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -735,7 +735,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6285802897506@s.whatsapp.net": {
         "rpg": false,
@@ -1058,9 +1059,9 @@
         "nsfw": false,
         "totalChat": {
           "6285935011010@s.whatsapp.net": 31,
-          "120363418220151844@g.us": 78,
+          "120363418220151844@g.us": 100,
           "13863937529@s.whatsapp.net": 2,
-          "6289523581795@s.whatsapp.net": 5,
+          "6289523581795@s.whatsapp.net": 12,
           "6287852963880@s.whatsapp.net": 2,
           "6283823933000@s.whatsapp.net": 1,
           "628136806685@s.whatsapp.net": 23,
@@ -1105,7 +1106,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400297473298@newsletter": 15
+          "120363400297473298@newsletter": 18
         }
       },
       "120363335608906967@g.us": {
@@ -1152,14 +1153,14 @@
           "6283199341453@s.whatsapp.net": 2,
           "6285946007505@s.whatsapp.net": 1,
           "6281390817531@s.whatsapp.net": 1,
-          "6288225275651@s.whatsapp.net": 66,
+          "6288225275651@s.whatsapp.net": 72,
           "6285647417132@s.whatsapp.net": 2,
           "6283854772553@s.whatsapp.net": 7,
           "6281367524408@s.whatsapp.net": 2,
           "6283133784135@s.whatsapp.net": 2,
           "6288227621684@s.whatsapp.net": 1,
           "6285122080122@s.whatsapp.net": 1,
-          "6283159144627@s.whatsapp.net": 1,
+          "6283159144627@s.whatsapp.net": 2,
           "6285802897506@s.whatsapp.net": 1,
           "6283877781288@s.whatsapp.net": 1,
           "6283836747007@s.whatsapp.net": 1
