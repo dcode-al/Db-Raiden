@@ -45,7 +45,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 891,
+        "exp": 899,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -1327,8 +1327,8 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285935011010@s.whatsapp.net": 74,
-          "120363421971285563@g.us": 54,
+          "6285935011010@s.whatsapp.net": 75,
+          "120363421971285563@g.us": 55,
           "6285814486417@s.whatsapp.net": 18
         }
       },
