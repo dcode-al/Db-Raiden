@@ -2607,7 +2607,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "48632283832483@lid": {
         "rpg": false,
@@ -4177,7 +4178,7 @@
           "6282229645669@s.whatsapp.net": 2,
           "248266608381986@lid": 2,
           "6285135547719@s.whatsapp.net": 5,
-          "6285974356247@s.whatsapp.net": 1,
+          "6285974356247@s.whatsapp.net": 2,
           "6283115730845@s.whatsapp.net": 1,
           "6287741342026@s.whatsapp.net": 2,
           "6285792003754@s.whatsapp.net": 5,
