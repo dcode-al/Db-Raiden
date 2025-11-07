@@ -352,10 +352,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 96,
+        "limit": 95,
         "coins": 0,
         "saldo": 0,
-        "exp": 51,
+        "exp": 71,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -11029,8 +11029,8 @@
           "6283179126151@s.whatsapp.net": 190,
           "6283188395335@s.whatsapp.net": 132,
           "6281311919509@s.whatsapp.net": 1306,
-          "6285609543980@s.whatsapp.net": 546,
-          "120363403860153057@g.us": 145,
+          "6285609543980@s.whatsapp.net": 548,
+          "120363403860153057@g.us": 147,
           "6283877203097@s.whatsapp.net": 250,
           "6281315926590@s.whatsapp.net": 9,
           "16832010558@s.whatsapp.net": 4,
@@ -13531,7 +13531,7 @@
           "628815729194@s.whatsapp.net": 2,
           "62881011338656@s.whatsapp.net": 1,
           "6283103650323@s.whatsapp.net": 1,
-          "120363311029935074@g.us": 14
+          "120363311029935074@g.us": 15
         }
       },
       "62895328880004@s.whatsapp.net": {
