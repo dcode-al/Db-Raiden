@@ -193,7 +193,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6281224340713@s.whatsapp.net": {
         "rpg": false,
@@ -690,7 +691,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418082377874@newsletter": 1
+          "120363418082377874@newsletter": 2
         }
       },
       "120363418850772200@g.us": {
