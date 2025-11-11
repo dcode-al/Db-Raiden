@@ -4376,7 +4376,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       }
     },
     "chats": {
@@ -4925,7 +4926,7 @@
           "6281572659330@s.whatsapp.net": 1,
           "6282337908875@s.whatsapp.net": 1,
           "6285385135950@s.whatsapp.net": 2,
-          "6285369003930@s.whatsapp.net": 1
+          "6285369003930@s.whatsapp.net": 2
         }
       },
       "62895365195604@s.whatsapp.net": {
