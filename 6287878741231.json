@@ -5043,10 +5043,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 96,
+        "limit": 95,
         "coins": 0,
         "saldo": 0,
-        "exp": 27,
+        "exp": 43,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7690,7 +7690,7 @@
         "totalChat": {
           "120363419214073105@g.us": 779,
           "6282148939073@s.whatsapp.net": 81,
-          "6285147614282@s.whatsapp.net": 228,
+          "6285147614282@s.whatsapp.net": 229,
           "6289527176764@s.whatsapp.net": 169,
           "6285693473510@s.whatsapp.net": 177,
           "6283153800829@s.whatsapp.net": 132,
@@ -7706,7 +7706,7 @@
           "6285835435713@s.whatsapp.net": 192,
           "6289509951876@s.whatsapp.net": 62,
           "6283843877660@s.whatsapp.net": 35,
-          "6287723643511@s.whatsapp.net": 547,
+          "6287723643511@s.whatsapp.net": 549,
           "6282393110052@s.whatsapp.net": 22,
           "6288901375126@s.whatsapp.net": 154,
           "6285248148220@s.whatsapp.net": 43,
@@ -7772,7 +7772,7 @@
           "6285780357386@s.whatsapp.net": 1,
           "628989397913@s.whatsapp.net": 7,
           "6281356523388@s.whatsapp.net": 1,
-          "628812056451@s.whatsapp.net": 4
+          "628812056451@s.whatsapp.net": 6
         }
       },
       "120363405148034077@g.us": {
@@ -7811,7 +7811,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363405148034077@g.us": 7690,
+          "120363405148034077@g.us": 7693,
           "6285251883889@s.whatsapp.net": 457,
           "6285134604636@s.whatsapp.net": 163,
           "6281252114226@s.whatsapp.net": 22,
@@ -7951,7 +7951,7 @@
           "6285179997164@s.whatsapp.net": 12,
           "6283190953568@s.whatsapp.net": 1,
           "6281354847860@s.whatsapp.net": 1,
-          "6281400775909@s.whatsapp.net": 6,
+          "6281400775909@s.whatsapp.net": 7,
           "6282137198771@s.whatsapp.net": 10,
           "6282292843981@s.whatsapp.net": 3,
           "60162425242@s.whatsapp.net": 37,
