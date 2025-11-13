@@ -23903,7 +23903,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6281299142900@s.whatsapp.net": {
         "rpg": false,
@@ -25407,7 +25408,7 @@
           "628811785418@s.whatsapp.net": 1,
           "6285189579240@s.whatsapp.net": 6,
           "6287834400346@s.whatsapp.net": 1,
-          "601162110971@s.whatsapp.net": 1,
+          "601162110971@s.whatsapp.net": 2,
           "6281299142900@s.whatsapp.net": 1
         }
       },
