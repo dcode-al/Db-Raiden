@@ -357,7 +357,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "120363421319187750@newsletter": {
         "rpg": false,
@@ -380,7 +381,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6283193629919@s.whatsapp.net": {
         "rpg": false,
@@ -443,7 +445,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283877781288@s.whatsapp.net": 16
+          "6283877781288@s.whatsapp.net": 20
         }
       },
       "6285935011010@s.whatsapp.net": {
@@ -610,8 +612,8 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6288293199678@s.whatsapp.net": 2,
-          "120363421255807124@g.us": 2,
+          "6288293199678@s.whatsapp.net": 4,
+          "120363421255807124@g.us": 3,
           "6285935011010@s.whatsapp.net": 2
         }
       },
@@ -690,7 +692,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400297473298@newsletter": 1
+          "120363400297473298@newsletter": 9
         }
       },
       "120363421319187750@newsletter": {
@@ -729,7 +731,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363421319187750@newsletter": 1
+          "120363421319187750@newsletter": 6
         }
       }
     },
