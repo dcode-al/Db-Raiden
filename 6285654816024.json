@@ -233,7 +233,7 @@
         "limit": 9999999,
         "coins": 0,
         "saldo": 5000,
-        "exp": 1225,
+        "exp": 1231,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -446,10 +446,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 22,
+        "limit": 21,
         "coins": 0,
         "saldo": 5000,
-        "exp": 638,
+        "exp": 657,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -566,10 +566,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 86,
+        "limit": 85,
         "coins": 0,
         "saldo": 0,
-        "exp": 153,
+        "exp": 159,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2633,7 +2633,7 @@
         "liststore": {
           "absen": {
             "key": "absen",
-            "response": "*DAFTAR MEMBER NEXT4 FORCE*\n\n*--PENGURUS--*\n \n 1.FAHRUL [LEADER]\n (082154221864)\n 2.NOBEL [KETUA SEMENTARA]\n (0882022822442)\n 3.OFFC YanEcᴮᴾ [OFFICER]\n (081313647235) \n 4.OFFC Keysa [OFFICER]\n (087743235225)\n 5.N4F abiyaaᴮᴾ [OFFICER]\n (088804735879)\n\n*--MEMBER--*\n\n6. N4F Dzyyᴮᴾ(0895322790639)\n7. N4F DITOᴮᴾ(082260053485)\n8. N4F ICHAᴮᴾ (089686250606)\n9. N4F Rereᴮᴾ 088246790985)\n10. N4F IRFANᴮᴾ(082191753064)\n11. N4F Ꭶᥲηᴮᴾ(6282299032284)\n12. N4F Bertt`☂️(082328678373)\n13. Xem(082344515729)\n14. Yanz for aᴮᴾ(08994620418)\n15. AVE CIMMA (08884532064)\n16. X¹ papap(082271639249)\n17. N4F Dilsᴮᴾ(083862581956)\n18. Jenaa (081933804520)\n19. N4F Iwan ( 082254807950)\n20. N4F kiyboy(081368125374)\n21. N4F Yennᴮᴾ(082293349702)\n22. N4F Mon!cc( 0895322281974)\n23. RBL Fiqhiᴮᴾ (088705525231)\n24. MAIL (085191670511)\n25. N4F Buyy(085824432770)",
+            "response": "*DAFTAR MEMBER NEXT4 FORCE*\n\n*--PENGURUS--*\n \n 1.FAHRUL [LEADER]\n (082154221864)\n 2.NOBEL [KETUA SEMENTARA]\n (0882022822442)\n 3.OFFC YanEcᴮᴾ [OFFICER]\n (081313647235) \n 4.OFFC Keysa [OFFICER]\n (087743235225)\n 5.N4F abiyaaᴮᴾ [OFFICER]\n (088804735879)\n\n*--MEMBER--*\n\n6. N4F Dzyyᴮᴾ(0895322790639)\n7. N4F DITOᴮᴾ(082260053485)\n8. N4F ICHAᴮᴾ (089686250606)\n9. N4F Rereᴮᴾ 088246790985)\n10. N4F IRFANᴮᴾ(082191753064)\n11. N4F Ꭶᥲηᴮᴾ(6282299032284)\n12. N4F Bertt`☂️(082328678373)\n13. Xem(082344515729)\n14. Yanz for aᴮᴾ(08994620418)\n15. AVE CIMMA (08884532064)\n16. X¹ papap(082271639249)\n17. N4F Dilsᴮᴾ(083862581956)\n18. N4F JenNotᴮᴾ (081933804520)\n19. N4F Iwan ( 082254807950)\n20. N4F kiyboy(081368125374)\n21. N4F Yennᴮᴾ(082293349702)\n22. N4F Mon!cc( 0895322281974)\n23. N4F Fiqhiᴮᴾ (088705525231)\n24. MAIL (085191670511)\n25. N4F Buyy(085824432770)",
             "img": "",
             "video": ""
           },
@@ -2655,10 +2655,10 @@
         "totalChat": {
           "6282252357922@s.whatsapp.net": 177,
           "6289501895825@s.whatsapp.net": 14,
-          "6281933804520@s.whatsapp.net": 84,
+          "6281933804520@s.whatsapp.net": 85,
           "6287743235225@s.whatsapp.net": 213,
-          "6288804735879@s.whatsapp.net": 49,
-          "120363420277163499@g.us": 105,
+          "6288804735879@s.whatsapp.net": 51,
+          "120363420277163499@g.us": 107,
           "6282254807950@s.whatsapp.net": 8,
           "6283862581956@s.whatsapp.net": 242,
           "6285191670511@s.whatsapp.net": 11,
@@ -2675,7 +2675,7 @@
           "6282154221864@s.whatsapp.net": 42,
           "6285824432770@s.whatsapp.net": 100,
           "628994620418@s.whatsapp.net": 6,
-          "6288705525231@s.whatsapp.net": 2,
+          "6288705525231@s.whatsapp.net": 3,
           "6282271639249@s.whatsapp.net": 2,
           "6282344515729@s.whatsapp.net": 1
         }
@@ -2763,7 +2763,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363421319187750@newsletter": 14
+          "120363421319187750@newsletter": 15
         }
       },
       "120363314571321104@newsletter": {
@@ -2882,7 +2882,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400297473298@newsletter": 29
+          "120363400297473298@newsletter": 34
         }
       },
       "120363186130999681@newsletter": {
@@ -3055,10 +3055,10 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285932455400@s.whatsapp.net": 371,
-          "6281241252379@s.whatsapp.net": 585,
-          "120363422987523811@g.us": 305,
-          "62882019386332@s.whatsapp.net": 498,
+          "6285932455400@s.whatsapp.net": 384,
+          "6281241252379@s.whatsapp.net": 597,
+          "120363422987523811@g.us": 309,
+          "62882019386332@s.whatsapp.net": 510,
           "6287872253414@s.whatsapp.net": 273,
           "6285654816024@s.whatsapp.net": 58,
           "97840009367746@s.whatsapp.net": 1
