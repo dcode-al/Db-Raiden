@@ -710,10 +710,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 49,
+        "limit": 47,
         "coins": 0,
         "saldo": 0,
-        "exp": 346,
+        "exp": 366,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2659,10 +2659,10 @@
           "6289501895825@s.whatsapp.net": 14,
           "6281933804520@s.whatsapp.net": 95,
           "6287743235225@s.whatsapp.net": 217,
-          "6288804735879@s.whatsapp.net": 56,
-          "120363420277163499@g.us": 112,
+          "6288804735879@s.whatsapp.net": 57,
+          "120363420277163499@g.us": 113,
           "6282254807950@s.whatsapp.net": 8,
-          "6283862581956@s.whatsapp.net": 247,
+          "6283862581956@s.whatsapp.net": 248,
           "6285191670511@s.whatsapp.net": 11,
           "62882022822442@s.whatsapp.net": 49,
           "6283845022224@s.whatsapp.net": 2,
@@ -2765,7 +2765,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363421319187750@newsletter": 21
+          "120363421319187750@newsletter": 23
         }
       },
       "120363314571321104@newsletter": {
@@ -2884,7 +2884,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363400297473298@newsletter": 53
+          "120363400297473298@newsletter": 55
         }
       },
       "120363186130999681@newsletter": {
@@ -3057,11 +3057,11 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285932455400@s.whatsapp.net": 568,
-          "6281241252379@s.whatsapp.net": 942,
-          "120363422987523811@g.us": 377,
-          "62882019386332@s.whatsapp.net": 703,
-          "6287872253414@s.whatsapp.net": 519,
+          "6285932455400@s.whatsapp.net": 600,
+          "6281241252379@s.whatsapp.net": 980,
+          "120363422987523811@g.us": 380,
+          "62882019386332@s.whatsapp.net": 722,
+          "6287872253414@s.whatsapp.net": 529,
           "6285654816024@s.whatsapp.net": 59,
           "97840009367746@s.whatsapp.net": 2
         }
