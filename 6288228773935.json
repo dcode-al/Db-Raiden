@@ -6269,7 +6269,7 @@
         "limit": 10000000,
         "coins": 0,
         "saldo": 0,
-        "exp": 78,
+        "exp": 80,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8557,7 +8557,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281217883202@s.whatsapp.net": 1,
+          "6281217883202@s.whatsapp.net": 2,
           "6281389048345@s.whatsapp.net": 1,
           "6281222553822@s.whatsapp.net": 1
         }
@@ -10092,6 +10092,46 @@
         "nsfw": false,
         "totalChat": {
           "6285179731332@s.whatsapp.net": 1
+        }
+      },
+      "120363423573213799@g.us": {
+        "goodbye": false,
+        "welcome": false,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "liststore": {},
+        "autogroup": {},
+        "nsfw": false,
+        "totalChat": {
+          "6281217883202@s.whatsapp.net": 1,
+          "120363423573213799@g.us": 1
         }
       }
     },
