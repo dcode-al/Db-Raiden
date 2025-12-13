@@ -3130,10 +3130,10 @@
         "status_deposit": false,
         "umur": 18,
         "glimit": 0,
-        "limit": 70,
+        "limit": 68,
         "coins": 0,
         "saldo": 23750,
-        "exp": 2069,
+        "exp": 2077,
         "rank": 990,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -7996,7 +7996,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       }
     },
     "chats": {
@@ -8098,7 +8099,7 @@
           "6281252381475@s.whatsapp.net": 1505,
           "6282216695656@s.whatsapp.net": 529,
           "6281325597667@s.whatsapp.net": 1544,
-          "6285189811574@s.whatsapp.net": 1256,
+          "6285189811574@s.whatsapp.net": 1257,
           "6281553605725@s.whatsapp.net": 536,
           "6281298621882@s.whatsapp.net": 1393,
           "6283143987441@s.whatsapp.net": 1041,
@@ -8123,7 +8124,7 @@
           "6285746911691@s.whatsapp.net": 307,
           "6282341006275@s.whatsapp.net": 1,
           "6285878683567@s.whatsapp.net": 2,
-          "6289526697102@s.whatsapp.net": 92,
+          "6289526697102@s.whatsapp.net": 93,
           "6283893648009@s.whatsapp.net": 2,
           "6289530850952@s.whatsapp.net": 1,
           "6285773523424@s.whatsapp.net": 3,
@@ -8178,7 +8179,7 @@
         "nsfw": false,
         "totalChat": {
           "6282210599096@s.whatsapp.net": 52,
-          "120363420139158899@g.us": 3634,
+          "120363420139158899@g.us": 3637,
           "6288983061252@s.whatsapp.net": 61,
           "6285189252407@s.whatsapp.net": 173,
           "6285935011010@s.whatsapp.net": 27,
@@ -8200,7 +8201,7 @@
           "6287811080530@s.whatsapp.net": 48,
           "6283194430650@s.whatsapp.net": 21,
           "6289688010603@s.whatsapp.net": 3,
-          "6282180736801@s.whatsapp.net": 263,
+          "6282180736801@s.whatsapp.net": 264,
           "6285654829011@s.whatsapp.net": 32,
           "6283893067224@s.whatsapp.net": 6,
           "62882003463083@s.whatsapp.net": 123,
@@ -8253,7 +8254,7 @@
           "6283829932210@s.whatsapp.net": 4,
           "6285659570563@s.whatsapp.net": 2,
           "6285691773189@s.whatsapp.net": 3,
-          "6289608992801@s.whatsapp.net": 1
+          "6289608992801@s.whatsapp.net": 2
         },
         "antitagsw": true
       },
