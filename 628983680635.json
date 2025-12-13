@@ -18,10 +18,10 @@
         "status_deposit": false,
         "umur": 18,
         "glimit": 500,
-        "limit": 9999987,
+        "limit": 9999978,
         "coins": 0,
         "saldo": 1000,
-        "exp": 1054,
+        "exp": 1137,
         "rank": 676,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -594,10 +594,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 0,
-        "limit": 82,
+        "limit": 107,
         "coins": 0,
-        "saldo": 21750,
-        "exp": 1096,
+        "saldo": 29250,
+        "exp": 1171,
         "rank": 916,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8013,7 +8013,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 566,
+          "6283197755341@s.whatsapp.net": 567,
           "120363422224111727@g.us": 493,
           "628995820020@s.whatsapp.net": 56,
           "6285397881148@s.whatsapp.net": 53,
@@ -8155,9 +8155,9 @@
         "nsfw": false,
         "totalChat": {
           "6282210599096@s.whatsapp.net": 52,
-          "120363420139158899@g.us": 3601,
+          "120363420139158899@g.us": 3605,
           "6288983061252@s.whatsapp.net": 61,
-          "6285189252407@s.whatsapp.net": 168,
+          "6285189252407@s.whatsapp.net": 173,
           "6285935011010@s.whatsapp.net": 27,
           "6281295789953@s.whatsapp.net": 62,
           "6281318375228@s.whatsapp.net": 10,
@@ -9638,8 +9638,8 @@
         "nsfw": false,
         "totalChat": {
           "628983680635@s.whatsapp.net": 5,
-          "6283197755341@s.whatsapp.net": 113,
-          "120363422712750132@g.us": 147,
+          "6283197755341@s.whatsapp.net": 146,
+          "120363422712750132@g.us": 201,
           "6289531639634@s.whatsapp.net": 2,
           "6283175741332@s.whatsapp.net": 3
         }
@@ -10385,7 +10385,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 18
+          "6283197755341@s.whatsapp.net": 20
         }
       },
       "6283873597154@s.whatsapp.net": {
