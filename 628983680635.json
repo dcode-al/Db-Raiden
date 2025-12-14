@@ -18,10 +18,10 @@
         "status_deposit": false,
         "umur": 18,
         "glimit": 500,
-        "limit": 9999969,
+        "limit": 9999968,
         "coins": 0,
         "saldo": 1000,
-        "exp": 1441,
+        "exp": 1558,
         "rank": 676,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -2295,10 +2295,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 81,
+        "limit": 80,
         "coins": 0,
         "saldo": 0,
-        "exp": 137,
+        "exp": 156,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8062,7 +8062,7 @@
         "nsfw": false,
         "totalChat": {
           "6283197755341@s.whatsapp.net": 572,
-          "120363422224111727@g.us": 494,
+          "120363422224111727@g.us": 495,
           "628995820020@s.whatsapp.net": 56,
           "6285397881148@s.whatsapp.net": 53,
           "639615293561@s.whatsapp.net": 407,
@@ -8074,7 +8074,7 @@
           "6283876892331@s.whatsapp.net": 186,
           "6285251883889@s.whatsapp.net": 476,
           "6285703556088@s.whatsapp.net": 42,
-          "62895410425552@s.whatsapp.net": 59,
+          "62895410425552@s.whatsapp.net": 60,
           "192312076464275@s.whatsapp.net": 3,
           "6283893067224@s.whatsapp.net": 74,
           "6289531639634@s.whatsapp.net": 4,
@@ -8123,7 +8123,7 @@
           "6281252381475@s.whatsapp.net": 1505,
           "6282216695656@s.whatsapp.net": 529,
           "6281325597667@s.whatsapp.net": 1544,
-          "6285189811574@s.whatsapp.net": 1257,
+          "6285189811574@s.whatsapp.net": 1258,
           "6281553605725@s.whatsapp.net": 536,
           "6281298621882@s.whatsapp.net": 1393,
           "6283143987441@s.whatsapp.net": 1041,
@@ -9688,8 +9688,8 @@
         "nsfw": false,
         "totalChat": {
           "628983680635@s.whatsapp.net": 5,
-          "6283197755341@s.whatsapp.net": 201,
-          "120363422712750132@g.us": 291,
+          "6283197755341@s.whatsapp.net": 209,
+          "120363422712750132@g.us": 306,
           "6289531639634@s.whatsapp.net": 2,
           "6283175741332@s.whatsapp.net": 3
         }
@@ -10435,7 +10435,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 23
+          "6283197755341@s.whatsapp.net": 24
         }
       },
       "6283873597154@s.whatsapp.net": {
