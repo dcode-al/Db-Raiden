@@ -12065,10 +12065,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 89,
+        "limit": 87,
         "coins": 0,
         "saldo": 0,
-        "exp": 66,
+        "exp": 77,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -14296,7 +14296,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "628885693893@s.whatsapp.net": {
         "rpg": false,
