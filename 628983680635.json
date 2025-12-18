@@ -21,7 +21,7 @@
         "limit": 9999967,
         "coins": 0,
         "saldo": 1000,
-        "exp": 1955,
+        "exp": 1972,
         "rank": 676,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -9693,11 +9693,12 @@
         "nsfw": false,
         "totalChat": {
           "628983680635@s.whatsapp.net": 5,
-          "6283197755341@s.whatsapp.net": 233,
-          "120363422712750132@g.us": 348,
+          "6283197755341@s.whatsapp.net": 240,
+          "120363422712750132@g.us": 356,
           "6289531639634@s.whatsapp.net": 2,
           "6283175741332@s.whatsapp.net": 3
-        }
+        },
+        "sewa": {}
       },
       "268663156428824@s.whatsapp.net": {
         "goodbye": true,
