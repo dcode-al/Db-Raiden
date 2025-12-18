@@ -9332,7 +9332,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6285824437078@s.whatsapp.net": {
         "rpg": false,
