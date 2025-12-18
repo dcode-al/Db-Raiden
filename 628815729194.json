@@ -14381,7 +14381,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6281217362126@s.whatsapp.net": {
         "rpg": false,
@@ -14779,7 +14780,8 @@
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
-        "rsaldo": 0
+        "rsaldo": 0,
+        "alpin": false
       },
       "6285754664428@s.whatsapp.net": {
         "rpg": false,
