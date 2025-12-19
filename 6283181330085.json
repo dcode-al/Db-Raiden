@@ -1554,7 +1554,7 @@
           "62895331257614@s.whatsapp.net": 1,
           "6285759211359@s.whatsapp.net": 2,
           "62882001838997@s.whatsapp.net": 6,
-          "6282233182990@s.whatsapp.net": 16,
+          "6282233182990@s.whatsapp.net": 17,
           "6287880602525@s.whatsapp.net": 2,
           "6282324469820@s.whatsapp.net": 3,
           "6289526171321@s.whatsapp.net": 2
@@ -2004,6 +2004,45 @@
         "nsfw": false,
         "totalChat": {
           "6281278095499@s.whatsapp.net": 3
+        }
+      },
+      "6283181330085@s.whatsapp.net": {
+        "goodbye": true,
+        "welcome": true,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": true,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": true,
+        "antitoxic": true,
+        "antivirtex": true,
+        "antipromosi": true,
+        "antiwame": false,
+        "antiwame2": true,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": true,
+        "autodl": true,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": true,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "liststore": {},
+        "autogroup": {},
+        "nsfw": false,
+        "totalChat": {
+          "6283181330085@s.whatsapp.net": 1
         }
       }
     },
