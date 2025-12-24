@@ -21,7 +21,7 @@
         "limit": 9999961,
         "coins": 0,
         "saldo": 1000,
-        "exp": 261,
+        "exp": 276,
         "rank": 676,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8351,14 +8351,14 @@
           "6281252381475@s.whatsapp.net": 1751,
           "6282216695656@s.whatsapp.net": 532,
           "6281325597667@s.whatsapp.net": 1726,
-          "6285189811574@s.whatsapp.net": 1566,
+          "6285189811574@s.whatsapp.net": 1567,
           "6281553605725@s.whatsapp.net": 564,
           "6281298621882@s.whatsapp.net": 1455,
-          "6283143987441@s.whatsapp.net": 1188,
+          "6283143987441@s.whatsapp.net": 1189,
           "120363336983235159@g.us": 699,
           "6285703911505@s.whatsapp.net": 138,
           "6282194764642@s.whatsapp.net": 118,
-          "6282183819938@s.whatsapp.net": 311,
+          "6282183819938@s.whatsapp.net": 312,
           "6285700823867@s.whatsapp.net": 333,
           "6289612136767@s.whatsapp.net": 10,
           "6285348747599@s.whatsapp.net": 134,
@@ -8381,7 +8381,7 @@
           "6289530850952@s.whatsapp.net": 1,
           "6285773523424@s.whatsapp.net": 3,
           "6282172336893@s.whatsapp.net": 138,
-          "6282350824963@s.whatsapp.net": 619,
+          "6282350824963@s.whatsapp.net": 621,
           "6282238187745@s.whatsapp.net": 1,
           "6287884035427@s.whatsapp.net": 1,
           "6282268107600@s.whatsapp.net": 1,
@@ -9924,9 +9924,9 @@
         "nsfw": false,
         "totalChat": {
           "628983680635@s.whatsapp.net": 5,
-          "6283197755341@s.whatsapp.net": 382,
-          "120363422712750132@g.us": 480,
-          "6289531639634@s.whatsapp.net": 66,
+          "6283197755341@s.whatsapp.net": 384,
+          "120363422712750132@g.us": 485,
+          "6289531639634@s.whatsapp.net": 70,
           "6283175741332@s.whatsapp.net": 45,
           "40081238831209@s.whatsapp.net": 1
         },
@@ -10676,7 +10676,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 53
+          "6283197755341@s.whatsapp.net": 54
         },
         "sewa": {},
         "expired": 0
