@@ -2580,7 +2580,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283877781288@s.whatsapp.net": 292
+          "6283877781288@s.whatsapp.net": 294
         }
       },
       "120363423464249455@newsletter": {
@@ -2658,7 +2658,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363402868866359@newsletter": 186
+          "120363402868866359@newsletter": 189
         }
       },
       "120363418220151844@g.us": {
@@ -2753,7 +2753,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363394855869991@newsletter": 154
+          "120363394855869991@newsletter": 157
         }
       },
       "6287757170977@s.whatsapp.net": {
@@ -3033,7 +3033,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363353886089241@newsletter": 66
+          "120363353886089241@newsletter": 67
         }
       },
       "120363418809483893@newsletter": {
@@ -4329,7 +4329,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363405362316840@newsletter": 2
+          "120363405362316840@newsletter": 3
         }
       },
       "34420572561663@lid": {
@@ -4876,15 +4876,17 @@
         "nsfw": false,
         "totalChat": {
           "6287857323586@s.whatsapp.net": 1,
-          "6283877781288@s.whatsapp.net": 19,
-          "6285373311356@s.whatsapp.net": 3,
-          "6282133295313@s.whatsapp.net": 9,
+          "6283877781288@s.whatsapp.net": 21,
+          "6285373311356@s.whatsapp.net": 4,
+          "6282133295313@s.whatsapp.net": 11,
           "120363403463758608@g.us": 16,
           "62895803031177@s.whatsapp.net": 2,
           "6281249703469@s.whatsapp.net": 12,
           "6282261169349@s.whatsapp.net": 20,
-          "62895636761912@s.whatsapp.net": 2,
-          "6283898318616@s.whatsapp.net": 1
+          "62895636761912@s.whatsapp.net": 17,
+          "6283898318616@s.whatsapp.net": 9,
+          "6285166370226@s.whatsapp.net": 27,
+          "6283840810226@s.whatsapp.net": 9
         }
       }
     },
