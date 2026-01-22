@@ -282,16 +282,18 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 69,
+        "limit": 66,
         "coins": 0,
         "saldo": 0,
-        "exp": 1639,
+        "exp": 1668,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "6289697140309@s.whatsapp.net": {
         "rpg": false,
@@ -4523,7 +4525,9 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "62882008612013@s.whatsapp.net": {
         "rpg": false,
@@ -4541,13 +4545,15 @@
         "limit": 83,
         "coins": 0,
         "saldo": 0,
-        "exp": 1085,
+        "exp": 1125,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "120363365523657785@newsletter": {
         "rpg": false,
@@ -5049,7 +5055,9 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "6289626392549@s.whatsapp.net": {
         "rpg": false,
@@ -7174,11 +7182,11 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "62882008612013@s.whatsapp.net": 103,
+          "62882008612013@s.whatsapp.net": 108,
           "6285716132700@s.whatsapp.net": 2,
-          "120363419734202482@g.us": 176,
+          "120363419734202482@g.us": 184,
           "17539220171@s.whatsapp.net": 10,
-          "639615293561@s.whatsapp.net": 33,
+          "639615293561@s.whatsapp.net": 36,
           "6285251883889@s.whatsapp.net": 5,
           "62895342632070@s.whatsapp.net": 10,
           "6289626392549@s.whatsapp.net": 2,
@@ -7403,7 +7411,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363418082377874@newsletter": 107
+          "120363418082377874@newsletter": 108
         }
       },
       "6289626392549@s.whatsapp.net": {
@@ -18680,6 +18688,7 @@
       }
     },
     "settings": {},
-    "anonymous": {}
+    "anonymous": {},
+    "giveaway": {}
   }
 }
