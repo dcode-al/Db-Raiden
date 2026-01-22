@@ -5248,7 +5248,9 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "237757108617267@s.whatsapp.net": {
         "rpg": false,
@@ -5602,7 +5604,9 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "120363371274035411@newsletter": {
         "rpg": false,
@@ -5626,7 +5630,9 @@
         "toxiccount": 0,
         "level": 0,
         "rsaldo": 0,
-        "alpin": false
+        "alpin": false,
+        "mingguan": 0,
+        "bulanan": 0
       },
       "102646144831588@s.whatsapp.net": {
         "rpg": false,
@@ -7558,7 +7564,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363363009408737@newsletter": 9
+          "120363363009408737@newsletter": 10
         }
       },
       "203904142852210@s.whatsapp.net": {
@@ -7871,7 +7877,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363365205790483@newsletter": 3
+          "120363365205790483@newsletter": 4
         }
       },
       "120363371274035411@newsletter": {
@@ -7910,7 +7916,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363371274035411@newsletter": 2
+          "120363371274035411@newsletter": 3
         }
       },
       "120363403133220541@g.us": {
