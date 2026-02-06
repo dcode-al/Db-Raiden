@@ -551,7 +551,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 9,
+        "limit": 8,
         "coins": 0,
         "saldo": 0,
         "exp": 1015,
@@ -5176,7 +5176,7 @@
         "nsfw": false,
         "totalChat": {
           "6285169180261@s.whatsapp.net": 14,
-          "120363420139158899@g.us": 2886,
+          "120363420139158899@g.us": 2888,
           "6281326421799@s.whatsapp.net": 38,
           "62882016825394@s.whatsapp.net": 6,
           "6288219765065@s.whatsapp.net": 8,
