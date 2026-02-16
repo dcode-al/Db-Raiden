@@ -4626,10 +4626,10 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 48,
+        "limit": 44,
         "coins": 0,
         "saldo": 0,
-        "exp": 550,
+        "exp": 572,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8636,9 +8636,9 @@
         "nsfw": false,
         "totalChat": {
           "62882008612013@s.whatsapp.net": 54,
-          "120363418444704992@g.us": 260,
+          "120363418444704992@g.us": 265,
           "639615293561@s.whatsapp.net": 63,
-          "6288808150087@s.whatsapp.net": 80,
+          "6288808150087@s.whatsapp.net": 90,
           "628994813111@s.whatsapp.net": 2,
           "6282114876853@s.whatsapp.net": 2
         }
