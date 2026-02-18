@@ -4307,7 +4307,7 @@
         "status_deposit": false,
         "umur": 0,
         "glimit": 15,
-        "limit": 43,
+        "limit": 42,
         "coins": 0,
         "saldo": 0,
         "exp": 612,
@@ -8928,7 +8928,7 @@
         "totalChat": {
           "62882008612013@s.whatsapp.net": 110,
           "6285716132700@s.whatsapp.net": 2,
-          "120363419734202482@g.us": 416,
+          "120363419734202482@g.us": 417,
           "17539220171@s.whatsapp.net": 10,
           "639615293561@s.whatsapp.net": 94,
           "6285251883889@s.whatsapp.net": 5,
@@ -9291,7 +9291,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363363009408737@newsletter": 47
+          "120363363009408737@newsletter": 48
         }
       },
       "203904142852210@s.whatsapp.net": {
