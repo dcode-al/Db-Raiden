@@ -57,7 +57,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1775186054506,
+        "pctime": 1775444425425,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -126,7 +126,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1775186085250,
+        "pctime": 1775444534453,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -181,7 +181,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285126817487@s.whatsapp.net": 10
+          "6285126817487@s.whatsapp.net": 12
         }
       },
       "639615293561@s.whatsapp.net": {
@@ -259,7 +259,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 8
+          "6281225877950@s.whatsapp.net": 12
         }
       },
       "120363424088240328@g.us": {
@@ -299,7 +299,7 @@
         "nsfw": false,
         "totalChat": {
           "6281225877950@s.whatsapp.net": 122,
-          "120363424088240328@g.us": 156,
+          "120363424088240328@g.us": 157,
           "639615293561@s.whatsapp.net": 114
         }
       },
@@ -420,7 +420,46 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "224000361906197@lid": 2
+          "224000361906197@lid": 3
+        }
+      },
+      "224000361906197@s.whatsapp.net": {
+        "goodbye": true,
+        "welcome": true,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "liststore": {},
+        "autogroup": {},
+        "nsfw": false,
+        "totalChat": {
+          "224000361906197@s.whatsapp.net": 1
         }
       }
     },
