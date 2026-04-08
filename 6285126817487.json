@@ -43,7 +43,7 @@
         "limit": 50,
         "coins": 0,
         "saldo": 0,
-        "exp": 384,
+        "exp": 395,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -66,7 +66,7 @@
         "limit": 50,
         "coins": 0,
         "saldo": 0,
-        "exp": 712,
+        "exp": 719,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -259,7 +259,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 24
+          "6281225877950@s.whatsapp.net": 25
         }
       },
       "120363424088240328@g.us": {
@@ -298,9 +298,9 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 132,
-          "120363424088240328@g.us": 178,
-          "639615293561@s.whatsapp.net": 123
+          "6281225877950@s.whatsapp.net": 135,
+          "120363424088240328@g.us": 184,
+          "639615293561@s.whatsapp.net": 127
         }
       },
       "120363408618187009@g.us": {
