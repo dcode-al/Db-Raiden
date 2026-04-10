@@ -17,7 +17,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 46,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 29,
@@ -178,7 +178,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -201,7 +201,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -224,7 +224,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -247,7 +247,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 98,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 18,
@@ -270,7 +270,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 1,
-        "limit": 43,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 569,
@@ -293,7 +293,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -316,7 +316,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -339,7 +339,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -362,7 +362,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -385,7 +385,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -408,7 +408,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -431,7 +431,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -454,7 +454,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -477,7 +477,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -500,7 +500,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 99,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 3,
@@ -523,7 +523,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -572,7 +572,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285126817487@s.whatsapp.net": 24
+          "6285126817487@s.whatsapp.net": 28
         }
       },
       "639615293561@s.whatsapp.net": {
@@ -650,7 +650,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 36
+          "6281225877950@s.whatsapp.net": 38
         }
       },
       "120363424088240328@g.us": {
@@ -813,7 +813,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "224000361906197@lid": 3
+          "224000361906197@lid": 4
         }
       },
       "224000361906197@s.whatsapp.net": {
@@ -973,7 +973,7 @@
           "6285711453346@s.whatsapp.net": 97,
           "6281225877950@s.whatsapp.net": 23,
           "120363422100107777@g.us": 99,
-          "6285715676164@s.whatsapp.net": 5,
+          "6285715676164@s.whatsapp.net": 9,
           "6283829765950@s.whatsapp.net": 13,
           "6285126817487@s.whatsapp.net": 4,
           "6288212690798@s.whatsapp.net": 48
