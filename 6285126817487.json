@@ -34,7 +34,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1775186014873,
+        "pctime": 1776345146252,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -43,7 +43,7 @@
         "limit": 50,
         "coins": 0,
         "saldo": 0,
-        "exp": 438,
+        "exp": 489,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -66,7 +66,7 @@
         "limit": 50,
         "coins": 0,
         "saldo": 750,
-        "exp": 1364,
+        "exp": 1557,
         "rank": 743,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -80,7 +80,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1775186085250,
+        "pctime": 1776345145486,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -4344,7 +4344,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285126817487@s.whatsapp.net": 86
+          "6285126817487@s.whatsapp.net": 87
         }
       },
       "639615293561@s.whatsapp.net": {
@@ -4383,7 +4383,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "639615293561@s.whatsapp.net": 18
+          "639615293561@s.whatsapp.net": 21
         }
       },
       "6281225877950@s.whatsapp.net": {
@@ -4461,9 +4461,9 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 191,
-          "120363424088240328@g.us": 281,
-          "639615293561@s.whatsapp.net": 143,
+          "6281225877950@s.whatsapp.net": 216,
+          "120363424088240328@g.us": 343,
+          "639615293561@s.whatsapp.net": 152,
           "274414654472260@s.whatsapp.net": 1
         }
       },
@@ -4547,7 +4547,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "274414654472260@lid": 5
+          "274414654472260@lid": 6
         }
       },
       "224000361906197@lid": {
@@ -5197,6 +5197,45 @@
         "nsfw": false,
         "totalChat": {
           "62895411197762@s.whatsapp.net": 1
+        }
+      },
+      "274414654472260@s.whatsapp.net": {
+        "goodbye": true,
+        "welcome": true,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "liststore": {},
+        "autogroup": {},
+        "nsfw": false,
+        "totalChat": {
+          "274414654472260@s.whatsapp.net": 1
         }
       }
     },
