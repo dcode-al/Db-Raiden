@@ -6933,11 +6933,11 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 96,
         "coins": 0,
         "saldo": 0,
         "uang": 0,
-        "exp": 0,
+        "exp": 16,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -8725,20 +8725,20 @@
         "nsfw": false,
         "totalChat": {
           "62895417906675@s.whatsapp.net": 3,
-          "120363420291670188@g.us": 12,
+          "120363420291670188@g.us": 18,
           "6281362553980@s.whatsapp.net": 4,
           "6287716651923@s.whatsapp.net": 5,
           "6281220707767@s.whatsapp.net": 3,
           "6285210933116@s.whatsapp.net": 1,
-          "6281292241258@s.whatsapp.net": 2,
+          "6281292241258@s.whatsapp.net": 7,
           "62895639139258@s.whatsapp.net": 12,
           "6281913430981@s.whatsapp.net": 5,
           "6285965546326@s.whatsapp.net": 3,
           "6285191194807@s.whatsapp.net": 1,
           "6287833270366@s.whatsapp.net": 4,
           "6287874380105@s.whatsapp.net": 1,
-          "6281466795975@s.whatsapp.net": 1,
-          "6287748034411@s.whatsapp.net": 4
+          "6281466795975@s.whatsapp.net": 10,
+          "6287748034411@s.whatsapp.net": 7
         }
       },
       "120363305893405904@newsletter": {
