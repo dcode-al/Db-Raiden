@@ -1720,7 +1720,8 @@
         "level": 0,
         "rsaldo": 0,
         "mingguan": 0,
-        "bulanan": 0
+        "bulanan": 0,
+        "uang": 0
       },
       "6283189202482@s.whatsapp.net": {
         "rpg": false,
@@ -7219,7 +7220,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "628983680635@s.whatsapp.net": 304
+          "628983680635@s.whatsapp.net": 307
         }
       },
       "29717063274674@s.whatsapp.net": {
@@ -7304,9 +7305,9 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 99,
-          "120363421303316183@g.us": 160,
-          "6289531639634@s.whatsapp.net": 29,
+          "6283197755341@s.whatsapp.net": 100,
+          "120363421303316183@g.us": 161,
+          "6289531639634@s.whatsapp.net": 30,
           "6283175741332@s.whatsapp.net": 2,
           "628983680635@s.whatsapp.net": 2
         }
