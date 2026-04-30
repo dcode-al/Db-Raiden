@@ -6904,7 +6904,7 @@
         "mingguan": 0,
         "bulanan": 0
       },
-      "62895639139258@s.whatsapp.net": {
+      "120363305893405904@newsletter": {
         "rpg": false,
         "daftar": false,
         "qioo": false,
@@ -7477,8 +7477,8 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 100,
-          "120363421303316183@g.us": 163,
+          "6283197755341@s.whatsapp.net": 105,
+          "120363421303316183@g.us": 164,
           "6289531639634@s.whatsapp.net": 31,
           "6283175741332@s.whatsapp.net": 2,
           "628983680635@s.whatsapp.net": 2
@@ -8654,7 +8654,7 @@
           "202538024439984@s.whatsapp.net": 1
         }
       },
-      "120363404055664286@g.us": {
+      "120363305893405904@newsletter": {
         "goodbye": true,
         "welcome": true,
         "antilink": false,
@@ -8690,7 +8690,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "62895639139258@s.whatsapp.net": 1
+          "120363305893405904@newsletter": 1
         }
       }
     },
@@ -21702,7 +21702,7 @@
         "comments": 0,
         "money": 0
       },
-      "62895639139258@s.whatsapp.net": {
+      "120363305893405904@newsletter": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
