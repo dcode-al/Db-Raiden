@@ -4491,7 +4491,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 230
+          "6281225877950@s.whatsapp.net": 232
         }
       },
       "120363424088240328@g.us": {
@@ -4530,9 +4530,9 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 282,
+          "6281225877950@s.whatsapp.net": 286,
           "120363424088240328@g.us": 527,
-          "639615293561@s.whatsapp.net": 190,
+          "639615293561@s.whatsapp.net": 191,
           "274414654472260@s.whatsapp.net": 1
         }
       },
@@ -5353,6 +5353,45 @@
           "6285126817487@s.whatsapp.net": 16,
           "6285353360931@s.whatsapp.net": 1,
           "120363405219185684@g.us": 30
+        }
+      },
+      "6289508899033@s.whatsapp.net": {
+        "goodbye": true,
+        "welcome": true,
+        "antilink": false,
+        "antibot": false,
+        "antibot2": false,
+        "antilinktt": false,
+        "antiaudio": false,
+        "antisticker": false,
+        "antiimage": false,
+        "antivideo": false,
+        "antidocument": false,
+        "antitoxic": false,
+        "antivirtex": false,
+        "antipromosi": false,
+        "antiwame": false,
+        "antiwame2": false,
+        "antipolling": false,
+        "antilinkall": false,
+        "antilink2": false,
+        "autodl": false,
+        "autoaigc": false,
+        "autoaipc": false,
+        "kickme": false,
+        "keamanan": false,
+        "mute": false,
+        "setproses": false,
+        "setdone": false,
+        "setclose": false,
+        "setopen": false,
+        "setleft": false,
+        "setwelcome": false,
+        "liststore": {},
+        "autogroup": {},
+        "nsfw": false,
+        "totalChat": {
+          "6289508899033@s.whatsapp.net": 1
         }
       }
     },
