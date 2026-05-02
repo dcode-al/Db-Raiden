@@ -4433,7 +4433,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -4456,7 +4456,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 0,
@@ -4583,7 +4583,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 267
+          "6281225877950@s.whatsapp.net": 268
         }
       },
       "120363424088240328@g.us": {
