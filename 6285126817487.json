@@ -43,7 +43,7 @@
         "limit": 50,
         "coins": 0,
         "saldo": 0,
-        "exp": 814,
+        "exp": 876,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -4583,7 +4583,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6281225877950@s.whatsapp.net": 254
+          "6281225877950@s.whatsapp.net": 255
         }
       },
       "120363424088240328@g.us": {
@@ -4623,8 +4623,8 @@
         "nsfw": false,
         "totalChat": {
           "6281225877950@s.whatsapp.net": 292,
-          "120363424088240328@g.us": 543,
-          "639615293561@s.whatsapp.net": 195,
+          "120363424088240328@g.us": 555,
+          "639615293561@s.whatsapp.net": 202,
           "274414654472260@s.whatsapp.net": 1,
           "6285126817487@s.whatsapp.net": 1
         }
