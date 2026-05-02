@@ -2161,7 +2161,8 @@
         "level": 0,
         "rsaldo": 0,
         "mingguan": 0,
-        "bulanan": 0
+        "bulanan": 0,
+        "uang": 0
       },
       "62881036235419@s.whatsapp.net": {
         "rpg": false,
@@ -7049,7 +7050,7 @@
         "mingguan": 0,
         "bulanan": 0
       },
-      "6287874380105@s.whatsapp.net": {
+      "158794000634058@lid": {
         "rpg": false,
         "daftar": false,
         "qioo": false,
@@ -7073,7 +7074,7 @@
         "mingguan": 0,
         "bulanan": 0
       },
-      "6287740504817@s.whatsapp.net": {
+      "6287716651923@s.whatsapp.net": {
         "rpg": false,
         "daftar": false,
         "qioo": false,
@@ -7097,7 +7098,7 @@
         "mingguan": 0,
         "bulanan": 0
       },
-      "6281261801142@s.whatsapp.net": {
+      "62895639139258@s.whatsapp.net": {
         "rpg": false,
         "daftar": false,
         "qioo": false,
@@ -7814,7 +7815,7 @@
           "6283120589335@s.whatsapp.net": 244,
           "6285807428724@s.whatsapp.net": 703,
           "628974188118@s.whatsapp.net": 12,
-          "6285601800364@s.whatsapp.net": 334,
+          "6285601800364@s.whatsapp.net": 335,
           "62881036235419@s.whatsapp.net": 28,
           "6287778433302@s.whatsapp.net": 32,
           "6283193991575@s.whatsapp.net": 374,
@@ -8888,10 +8889,9 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6287895322052@s.whatsapp.net": 7,
-          "6287874380105@s.whatsapp.net": 11,
-          "6287740504817@s.whatsapp.net": 7,
-          "6281261801142@s.whatsapp.net": 3
+          "120363404055664286@g.us": 1,
+          "6287716651923@s.whatsapp.net": 6,
+          "62895639139258@s.whatsapp.net": 1
         }
       }
     },
@@ -22173,7 +22173,7 @@
         "comments": 0,
         "money": 0
       },
-      "6287874380105@s.whatsapp.net": {
+      "158794000634058@lid": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
@@ -22218,7 +22218,7 @@
         "comments": 0,
         "money": 0
       },
-      "6287740504817@s.whatsapp.net": {
+      "6287716651923@s.whatsapp.net": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
@@ -22263,7 +22263,7 @@
         "comments": 0,
         "money": 0
       },
-      "6281261801142@s.whatsapp.net": {
+      "62895639139258@s.whatsapp.net": {
         "kapal": false,
         "darahkapal": 100,
         "pickaxe": false,
