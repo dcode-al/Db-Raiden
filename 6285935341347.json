@@ -7917,11 +7917,11 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 99,
         "coins": 0,
         "saldo": 0,
         "uang": 0,
-        "exp": 0,
+        "exp": 3,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
@@ -9903,11 +9903,11 @@
           "6281936777548@s.whatsapp.net": 1,
           "6285198462495@s.whatsapp.net": 1,
           "6287874380105@s.whatsapp.net": 21,
-          "6287742515626@s.whatsapp.net": 4,
+          "6287742515626@s.whatsapp.net": 5,
           "6285945404030@s.whatsapp.net": 4,
-          "120363404055664286@g.us": 2,
+          "120363404055664286@g.us": 3,
           "6282189104854@s.whatsapp.net": 3,
-          "6287740504817@s.whatsapp.net": 10,
+          "6287740504817@s.whatsapp.net": 12,
           "6287748035132@s.whatsapp.net": 2
         }
       }
