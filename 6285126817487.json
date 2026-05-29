@@ -4516,7 +4516,8 @@
         "toxiccount": 0,
         "level": 0,
         "mingguan": 0,
-        "bulanan": 0
+        "bulanan": 0,
+        "uang": 0
       },
       "6285860796719@s.whatsapp.net": {
         "rpg": false,
@@ -5931,7 +5932,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "120363405779966400@newsletter": 45
+          "120363405779966400@newsletter": 46
         }
       },
       "120363376746402399@g.us": {
