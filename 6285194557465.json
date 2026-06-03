@@ -967,7 +967,8 @@
         "level": 0,
         "rsaldo": 0,
         "mingguan": 0,
-        "bulanan": 0
+        "bulanan": 0,
+        "uang": 0
       },
       "6283151903534@s.whatsapp.net": {
         "rpg": false,
@@ -11219,7 +11220,8 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6285821442987@s.whatsapp.net": 1
+          "6285821442987@s.whatsapp.net": 1,
+          "236477342576893@s.whatsapp.net": 1
         }
       },
       "6285935011010@s.whatsapp.net": {
