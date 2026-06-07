@@ -112,7 +112,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": 1780853882173,
+        "pctime": 1780853892284,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -121,11 +121,11 @@
         "limit": 50,
         "coins": 0,
         "saldo": 28000,
-        "exp": 2513,
+        "exp": 0,
         "rank": 700,
         "antilinkcount": 0,
         "toxiccount": 0,
-        "level": 0,
+        "level": 1,
         "rsaldo": 0,
         "mingguan": 1767888079041,
         "bulanan": 1769875363686,
@@ -9296,7 +9296,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "6283197755341@s.whatsapp.net": 331
+          "6283197755341@s.whatsapp.net": 335
         }
       },
       "120363405905001449@g.us": {
@@ -9379,7 +9379,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "628983680635@s.whatsapp.net": 479
+          "628983680635@s.whatsapp.net": 480
         }
       },
       "29717063274674@s.whatsapp.net": {
