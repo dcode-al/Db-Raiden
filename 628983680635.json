@@ -1247,7 +1247,7 @@
         "qioo": false,
         "chatAi": false,
         "caiSesi": "",
-        "pctime": "",
+        "pctime": 1781046565221,
         "nama": "Guest",
         "pacar": "",
         "askot": "jakarta",
@@ -1263,7 +1263,8 @@
         "level": 0,
         "rsaldo": 0,
         "mingguan": 0,
-        "bulanan": 0
+        "bulanan": 0,
+        "uang": 0
       },
       "165313861701883@lid": {
         "rpg": false,
@@ -10979,7 +10980,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "62882007241052@s.whatsapp.net": 11
+          "62882007241052@s.whatsapp.net": 14
         }
       }
     },
