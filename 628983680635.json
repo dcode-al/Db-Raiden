@@ -193,7 +193,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 48,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 1102,
@@ -490,7 +490,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 46,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 302,
@@ -1179,7 +1179,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 11,
-        "limit": 48,
+        "limit": 50,
         "coins": 0,
         "saldo": 750,
         "exp": 1079,
@@ -1646,7 +1646,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 47,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 426,
@@ -2978,7 +2978,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 31,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "exp": 103,
@@ -6692,7 +6692,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 38,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "uang": 0,
@@ -6932,7 +6932,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 44,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "uang": 0,
@@ -9116,7 +9116,7 @@
         "askot": "jakarta",
         "umur": 0,
         "glimit": 15,
-        "limit": 100,
+        "limit": 50,
         "coins": 0,
         "saldo": 0,
         "uang": 0,
@@ -9601,7 +9601,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "628983680635@s.whatsapp.net": 505
+          "628983680635@s.whatsapp.net": 506
         }
       },
       "29717063274674@s.whatsapp.net": {
@@ -11158,7 +11158,7 @@
         "autogroup": {},
         "nsfw": false,
         "totalChat": {
-          "62882007241052@s.whatsapp.net": 17
+          "62882007241052@s.whatsapp.net": 19
         }
       },
       "6282268303902@s.whatsapp.net": {
